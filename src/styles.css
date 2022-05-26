@@ -1,0 +1,15 @@
+#chat_widget .rcw-conversation-container {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#chat_widget .rcw-conversation-container > .rcw-header {
+  background-color: #033761;
+}
+#chat_widget .rcw-client > .rcw-message-text {
+  background-color: #4ca0e6;
+  color: #fff;
+}
+
+#chat_widget .rcw-launcher {
+  background-color: #033761;
+}
